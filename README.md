@@ -1,7 +1,7 @@
 # Hi there! I'm Flora (she/her) 🌿
 
 👩‍💻 I'm a design and health-tech nerd striving to innovate products that tangibly improve others' lives\
-🤝 Seeking summer 2021 co-op opportunities in design and development
+🤝 Seeking summer 2021 co-op opportunities in design and development\
 🎒 Currently studying biomedical engineering at the University of Waterloo
 
 Learn more about me here:
