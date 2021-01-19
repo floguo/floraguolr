@@ -1,7 +1,8 @@
 # Hi there! I'm Flora (she/her) 🌿
 
-👩‍💻 I'm a huge design and health-tech nerd striving to innovate product that tangibly improve others' lives.\
-🎒 Currently studying biomedical engineering at the University of Waterloo.
+👩‍💻 I'm a design and health-tech nerd striving to innovate products that tangibly improve others' lives\
+🤝 Seeking summer 2021 co-op opportunities in design and development
+🎒 Currently studying biomedical engineering at the University of Waterloo
 
 Learn more about me here:
 http://floraguo.ca
