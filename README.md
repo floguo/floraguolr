@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there! I'm Flora (she/her) 🌿
+
+👩‍💻 I'm a huge design and health-tech nerd striving to innovate product that tangibly improve others' lives.
+🎒 Currently studying biomedical engineering at the University of Waterloo.
+
+Learn more about me here:
+http://floraguo.ca
 
 <!--
 **floraguolr/floraguolr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
