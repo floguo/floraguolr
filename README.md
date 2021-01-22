@@ -5,7 +5,7 @@
 🎒 Currently studying biomedical engineering at the University of Waterloo
 
 Learn more about me here:
-http://floraguo.ca
+https://floraguo.ca
 
 <!--
 **floraguolr/floraguolr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
