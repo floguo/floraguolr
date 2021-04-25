@@ -1,8 +1,8 @@
 # Hi there! I'm Flora (she/her) 🌿
 
-👩‍💻 I'm a design and health-tech nerd striving to innovate products that tangibly improve others' lives\
+👩‍💻 I'm a design and health-tech nerd striving to innovate products that delight users\
 🤝 Incoming Product Designer @ Ontario Digital Service (May-Aug 2021)\
-🎒 Currently studying biomedical engineering at the University of Waterloo
+🦆 Currently studying biomedical engineering at Waterloo
 
 Learn more about me here:
 https://floraguo.ca
