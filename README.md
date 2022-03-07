@@ -1,7 +1,7 @@
 # Hi there! I'm Flora (she/her) 🌿
 
 👩‍💻 Design and health-tech nerd striving to innovate products that delight users\
-🤝 Product Designer @ Ontario Digital Service (May-Aug 2021)\
+🤝 Product Designer @ SeroTracker
 🦆 Currently studying biomedical engineering at Waterloo
 
 Learn more about me here:
