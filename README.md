@@ -1,11 +1,8 @@
-# Hi there! I'm Flora (she/her) 🌿
+# floguo
+personal harbringers of joy: modern physics, web3/defi/desci, writing & design
 
-👩‍💻 Design and health-tech nerd striving to innovate products that delight users\
-🤝 Product Designer @ SeroTracker\
-🦆 Currently studying biomedical engineering at Waterloo
-
-Learn more about me here:
-https://floraguo.ca
+[Twitter](https://twitter.com/floguo)
+[YouTube](https://youtube.com/floguo)
 
 <!--
 **floraguolr/floraguolr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
