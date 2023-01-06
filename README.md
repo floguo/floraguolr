@@ -1,7 +1,7 @@
 # floguo
 personal harbringers of joy: modern physics, web3/defi/desci, writing & design
 
-[Twitter](https://twitter.com/floguo)
+[Twitter](https://twitter.com/floguo)/
 [YouTube](https://youtube.com/floguo)
 
 <!--
