@@ -1,6 +1,7 @@
 # floguo
 personal harbringers (sic) of joy: physics, web3 & design<br><br>
 [twitter](https://twitter.com/floguo) | 
+[substack](https://floguo.substack.com) |
 [youtube](https://youtube.com/floguo)
 
 <!--
