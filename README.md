@@ -1,5 +1,5 @@
 # floguo
-personal harbringers (sic) of joy: physics, web3 & design
+personal harbringers (sic) of joy: physics, web3 & design<br>
 [twitter](https://twitter.com/floguo)<br>
 [youtube](https://youtube.com/floguo)
 
