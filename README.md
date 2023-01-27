@@ -1,8 +1,7 @@
 # floguo
-personal harbringers of joy: modern physics, web3/defi/desci, writing & design
-
-[Twitter](https://twitter.com/floguo)<br>
-[YouTube](https://youtube.com/floguo)
+personal harbringers (sic) of joy: physics, web3 & design
+[twitter](https://twitter.com/floguo)<br>
+[youtube](https://youtube.com/floguo)
 
 <!--
 **floraguolr/floraguolr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
